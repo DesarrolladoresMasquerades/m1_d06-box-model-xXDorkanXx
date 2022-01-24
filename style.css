@@ -1,0 +1,18 @@
+div{
+    background-color: #E9E6E6;
+    padding: 10px;
+}
+
+h1{
+    margin: 10px 10px 40px 20px;
+    border: 2px solid #178C55;
+    background-color: #78F0B7;
+    color: white;
+    padding: 20px;
+}
+
+p{
+    margin: 5px 10px;
+    background-color: #24CCDA;
+    color: white;
+}
